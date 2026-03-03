@@ -143,5 +143,5 @@
 #box(width: 100%)[*Excellence in Human-Centered Design* - Monash Innovation Guarantee x Commonwealth Bank (out of 60 teams) #h(1fr) Jan 2025]
 #box(width: 100%)[*Dux* - FIT1049 (IT Professional Practice), 1st in cohort; received Monash Academic Commendation #h(1fr) Sep 2024]
 #box(width: 100%)[*2nd Place* - MAC Product Designathon (out of 40 participants) #h(1fr) Mar 2024]
-#box(width: 100%)[*\$10,000 AUD Grant* - Monash International Study Grant #h(1fr) Jun 2022]
+#box(width: 100%)[*\$10,000 AUD Grant* - Monash International Study Grant for Academic Merit #h(1fr) Jun 2022]
 
