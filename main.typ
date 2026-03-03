@@ -115,8 +115,7 @@
   company: "Monash Association of Coding",
   dates: dates-helper(start-date: "Oct 2024", end-date: "Sep 2025"),
 )
-- Sole designer of `jobs.monashcoding.com`; launched to 2.2k users and 10k page visits.
-- Created digital and physical marketing assets, including motion graphics.
+- Solely designed and launched #link("https://jobs.monashcoding.com")[MAC Job Board] to 2.2k users and 10k page visits; designed digital products and physical merchandise.
 
 #work(
   title: "Design Officer",
@@ -142,6 +141,9 @@
 #box(width: 100%)[*3rd Place* - Atlassian x UNIHACK 2025 (out of 135 teams, 750 participants) #h(1fr) Mar 2025]
 #box(width: 100%)[*Excellence in Human-Centered Design* - Monash Innovation Guarantee x Commonwealth Bank (out of 60 teams) #h(1fr) Jan 2025]
 #box(width: 100%)[*Dux* - FIT1049 (IT Professional Practice), 1st in cohort; received Monash Academic Commendation #h(1fr) Sep 2024]
-#box(width: 100%)[*2nd Place* - MAC Product Designathon (out of 40 participants) #h(1fr) Mar 2024]
+#box(width: 100%)[*2nd Place* - MAC Product Designathon (40 participants) #h(1fr) Mar 2024]
 #box(width: 100%)[*\$10,000 AUD Grant* - Monash International Study Grant for Academic Merit #h(1fr) Jun 2022]
+
+*Relevant Skills*: Founder interviews, customer discovery, social media marketing, community building, event operations \
+*Technical Skills*: LangChain, n8n, Zapier, AWS, Supabase, APIs, Git, TypeScript, Python, Docker, Figma
 
