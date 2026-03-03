@@ -22,7 +22,7 @@
   personal-site: personal-site,
   accent-color: "#000000",
   font: "New Computer Modern",
-  font-size: 8pt,
+  font-size: 8.2pt,
   paper: "us-letter",
   author-position: left,
   personal-info-position: left,
@@ -138,10 +138,10 @@
 
 #box(width: 100%)[*Winner* - Monash Generator Validator #h(1fr) Nov 2025]
 #box(width: 100%)[*1st Place* - DTE Shark Tank @ Monash (out of 10 teams), selected by judges from Antler and Google #h(1fr) Oct 2025]
-#box(width: 100%)[*1st Place* - CISSA Design Blitz, University of Melbourne #h(1fr) Apr 2025]
-#box(width: 100%)[*3rd Place* - Atlassian x UNIHACK 2025 (135 teams, 750 participants) #h(1fr) Mar 2025]
-#box(width: 100%)[*Excellence in Human-Centered Design* - Monash Innovation Guarantee x Commonwealth Bank #h(1fr) Jan 2025]
-#box(width: 100%)[*Dux* - FIT1049 (IT Professional Practice), ranked 1st of 1,000 and received Monash Academic Commendation #h(1fr) Sep 2024]
-#box(width: 100%)[*2nd Place* - MAC Product Designathon #h(1fr) Mar 2024]
+#box(width: 100%)[*1st Place* - CISSA Design Blitz, University of Melbourne (out of 25 participants) #h(1fr) Apr 2025]
+#box(width: 100%)[*3rd Place* - Atlassian x UNIHACK 2025 (out of 135 teams, 750 participants) #h(1fr) Mar 2025]
+#box(width: 100%)[*Excellence in Human-Centered Design* - Monash Innovation Guarantee x Commonwealth Bank (out of 60 teams) #h(1fr) Jan 2025]
+#box(width: 100%)[*Dux* - FIT1049 (IT Professional Practice), (1st out of 1,000), received Monash Academic Commendation #h(1fr) Sep 2024]
+#box(width: 100%)[*2nd Place* - MAC Product Designathon (40 participants)#h(1fr) Mar 2024]
 #box(width: 100%)[*\$10,000 AUD Grant* - Monash International Study Grant #h(1fr) Jun 2022]
 
