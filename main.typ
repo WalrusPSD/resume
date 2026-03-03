@@ -86,7 +86,7 @@
 )
 - Built an AI agent for SEO-optimized article generation, reducing blog publish time from 3 hours to 15 minutes.
 - Engineered a scalable REST backend for content automation, cutting latency by 75% with 99% reliability.
-- Deployed the full-stack app on Render with cron job to prevent 2-minute cold start and slashing cloud costs.
+- Deployed the full-stack app on Render with cron jobs to prevent 2-minute cold starts while cutting cloud costs.
 
 #work(
   title: "Product Design Intern",
@@ -141,7 +141,7 @@
 #box(width: 100%)[*1st Place* - CISSA Design Blitz, University of Melbourne (out of 25 participants) #h(1fr) Apr 2025]
 #box(width: 100%)[*3rd Place* - Atlassian x UNIHACK 2025 (out of 135 teams, 750 participants) #h(1fr) Mar 2025]
 #box(width: 100%)[*Excellence in Human-Centered Design* - Monash Innovation Guarantee x Commonwealth Bank (out of 60 teams) #h(1fr) Jan 2025]
-#box(width: 100%)[*Dux* - FIT1049 (IT Professional Practice), (1st out of 1,000), received Monash Academic Commendation #h(1fr) Sep 2024]
-#box(width: 100%)[*2nd Place* - MAC Product Designathon (40 participants)#h(1fr) Mar 2024]
+#box(width: 100%)[*Dux* - FIT1049 (IT Professional Practice), 1st in cohort; received Monash Academic Commendation #h(1fr) Sep 2024]
+#box(width: 100%)[*2nd Place* - MAC Product Designathon (40 participants) #h(1fr) Mar 2024]
 #box(width: 100%)[*\$10,000 AUD Grant* - Monash International Study Grant #h(1fr) Jun 2022]
 
