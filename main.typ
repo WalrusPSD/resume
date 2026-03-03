@@ -61,9 +61,9 @@
   title: "Co-Founder and CEO",
   location: "Melbourne, VIC",
   company: "Nudge, Momo",
-  dates: dates-helper(start-date: "Nov 2025", end-date: "Mar 2026"),
+  dates: dates-helper(start-date: "Nov 2025", end-date: "Feb 2026"),
 )
-- Led business growth by holding 72 customer calls, generating 30 million views in 3 weeks, and validating our B2B angle by outreach to investing platforms. 
+- Led growth via 64 B2C customer calls and 30 million views in 3 weeks, plus B2B discovery calls with two investing platforms.
 - Designed and co-built the iOS app, landing page, and Chrome extension; improved onboarding conversion from 29% to 72%.
 - Pivoted from fintech to language learning, shipped a new landing page in 1 day, and got paying users within a week pre-product.
 - Selected for Antler's residency: 57 founders chosen from 2,000 applicants.
@@ -72,29 +72,29 @@
   title: "Designer",
   location: "Melbourne, VIC",
   company: "NextGen Ventures",
-  dates: dates-helper(start-date: "Dec 2023", end-date: "Mar 2024"),
+  dates: dates-helper(start-date: "Aug 2025", end-date: "Nov 2025"),
 )
 - Reimagined the NextGen Ventures website and brand with founding partners, supporting 1.5k+ monthly visitors.
-- Built an internal tool for sourcing founders that is able to gather 100+ leads in 2 minutes or less.
-- Designed merchandise concepts and aided in sourcing suppliers.
+- Built an internal tool for sourcing founders that is able to gather 100+ leads every minute.
+- Spearheaded the design of merchandise concepts and aided in sourcing suppliers.
 
 #work(
   title: "Software Engineer Intern",
   location: "Melbourne, VIC",
   company: "Hiredly X",
-  dates: dates-helper(start-date: "Jun 2020", end-date: "May 2023"),
+  dates: dates-helper(start-date: "Jun 2025", end-date: "Aug 2025"),
 )
 - Built an AI agent for SEO-optimized article generation, reducing blog publish time from 3 hours to 15 minutes.
 - Engineered a scalable REST backend for content automation, cutting latency by 75% with 99% reliability.
-- Deployed the full-stack app on Render with cron-based warmups, reducing cold starts from 2 minutes to near-zero and lowering cloud costs.
+- Deployed the full-stack app on Render with cron job to prevent 2-minute cold start and slashing cloud costs.
 
 #work(
   title: "Product Design Intern",
   location: "Melbourne, VIC",
   company: "Trackday",
-  dates: dates-helper(start-date: "Feb 2025", end-date: "May 2025"),
+  dates: dates-helper(start-date: "Jan 2025", end-date: "Jun 2025"),
 )
-- Interviewed design partners and motorsport executives; translated findings into personas, user stories, and prioritized requirements.
+- Interviewed design partners and motorsport executives; translated insights into personas, user stories, and priorities.
 - Redesigned login and personalized news feed flows with developers; shipped over three sprints.
 - Presented weekly data visualizations to leadership, aligning UX priorities and roadmap decisions.
 
@@ -113,7 +113,7 @@
   title: "Design Officer",
   location: "Melbourne, VIC",
   company: "Monash Association of Coding",
-  dates: dates-helper(start-date: "Oct 2024", end-date: "Present"),
+  dates: dates-helper(start-date: "Oct 2024", end-date: "Sep 2025"),
 )
 - Sole designer of `jobs.monashcoding.com`; launched to 2.2k users and 10k page visits.
 - Created digital and physical marketing assets, including motion graphics.
@@ -122,7 +122,7 @@
   title: "Design Officer",
   location: "Melbourne, VIC",
   company: "Google Developer Groups",
-  dates: dates-helper(start-date: "Apr 2024", end-date: "Jun 2025"),
+  dates: dates-helper(start-date: "Apr 2024", end-date: "Mar 2025"),
 )
 - Produced campaign visuals promoting Google Cloud, Android, and Gemini AI initiatives across digital channels.
 
@@ -136,12 +136,12 @@
 
 == Awards and Honours
 
-- *Winner* - Monash Generator Validator (Nov 2025)
-- *1st Place* - DTE Shark Tank @ Monash (Oct 2025)
-- *1st Place* - University of Melbourne CISSA Design Blitz (Apr 2025)
-- *3rd Place* - Atlassian x UNIHACK 2025 (135 teams, 750 participants) (Mar 2025)
-- *Excellence in Human-Centered Design* - Monash Innovation Guarantee x Commonwealth Bank (Jan 2025)
-- *Dux* - FIT1049 (IT Professional Practice), ranked 1st of 1,000 and received Monash Academic Commendation (Sep 2024)
-- *2nd Place* - MAC Product Designathon (Mar 2024)
-- *\$10,000 AUD Grant* - Monash International Study Grant (Jun 2022)
+#box(width: 100%)[*Winner* - Monash Generator Validator #h(1fr) Nov 2025]
+#box(width: 100%)[*1st Place* - DTE Shark Tank @ Monash (out of 10 teams), selected by judges from Antler and Google #h(1fr) Oct 2025]
+#box(width: 100%)[*1st Place* - CISSA Design Blitz, University of Melbourne #h(1fr) Apr 2025]
+#box(width: 100%)[*3rd Place* - Atlassian x UNIHACK 2025 (135 teams, 750 participants) #h(1fr) Mar 2025]
+#box(width: 100%)[*Excellence in Human-Centered Design* - Monash Innovation Guarantee x Commonwealth Bank #h(1fr) Jan 2025]
+#box(width: 100%)[*Dux* - FIT1049 (IT Professional Practice), ranked 1st of 1,000 and received Monash Academic Commendation #h(1fr) Sep 2024]
+#box(width: 100%)[*2nd Place* - MAC Product Designathon #h(1fr) Mar 2024]
+#box(width: 100%)[*\$10,000 AUD Grant* - Monash International Study Grant #h(1fr) Jun 2022]
 
