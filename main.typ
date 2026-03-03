@@ -49,7 +49,7 @@
   institution: "Monash University",
   location: "Melbourne, VIC",
   dates: dates-helper(start-date: "Jul 2022", end-date: "Nov 2025"),
-  degree: "Bachelor of Computer Science, Advanced Computer Science, minor in Philosophy",
+  degree: "Bachelor of Computer Science, major in Advanced Computer Science, minor in Philosophy",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   // consistent: true
