@@ -75,7 +75,7 @@
   dates: dates-helper(start-date: "Aug 2025", end-date: "Nov 2025"),
 )
 - Reimagined the NextGen Ventures website and brand with founding partners, supporting 1.5k+ monthly visitors.
-- Built an internal tool for sourcing founders that is able to gather 100+ leads every minute.
+- Built an internal founder-sourcing tool that gathered 100+ leads per minute.
 - Spearheaded the design of merchandise concepts and aided in sourcing suppliers.
 
 #work(
@@ -86,7 +86,7 @@
 )
 - Built an AI agent for SEO-optimized article generation, reducing blog publish time from 3 hours to 15 minutes.
 - Engineered a scalable REST backend for content automation, cutting latency by 75% with 99% reliability.
-- Deployed the full-stack app on Render with cron jobs to prevent 2-minute cold starts while cutting cloud costs.
+- Deployed the full-stack app on Render with cron keep-alive pings to avoid 2-minute cold starts while cutting cloud costs.
 
 #work(
   title: "Product Design Intern",
@@ -115,7 +115,7 @@
   company: "Monash Association of Coding",
   dates: dates-helper(start-date: "Oct 2024", end-date: "Sep 2025"),
 )
-- Solely designed and launched #link("https://jobs.monashcoding.com")[MAC Job Board] to 2.2k users and 10k page visits; designed digital products and physical merchandise.
+- Solely designed and launched #link("https://jobs.monashcoding.com")[MAC Job Board] to 2.2k users and 10k page visits; produced digital products and physical merchandise.
 
 #work(
   title: "Design Officer",
