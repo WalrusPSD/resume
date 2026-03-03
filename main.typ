@@ -115,7 +115,7 @@
   company: "Monash Association of Coding",
   dates: dates-helper(start-date: "Oct 2024", end-date: "Sep 2025"),
 )
-- Solely designed and launched #link("https://jobs.monashcoding.com")[MAC Job Board] to 2.2k users and 10k page visits; produced digital products and physical merchandise.
+- Solely designed #link("https://jobs.monashcoding.com")[MAC Job Board] (2.2k users, 10k page visits); produced digital assets and physical event merchandise.
 
 #work(
   title: "Design Officer",
