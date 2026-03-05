@@ -80,7 +80,7 @@
 
 #work(
   title: "Software Engineer Intern",
-  location: "Melbourne, VIC",
+  location: "Kuala Lumpur, Malaysia",
   company: "Hiredly X",
   dates: dates-helper(start-date: "Jun 2025", end-date: "Aug 2025"),
 )
@@ -144,6 +144,6 @@
 #box(width: 100%)[*2nd Place* - MAC Product Designathon (40 participants) #h(1fr) Mar 2024]
 #box(width: 100%)[*\$10,000 AUD Grant* - Monash International Study Grant for Academic Merit #h(1fr) Jun 2022]
 
-*Relevant Skills*: Founder interviews, customer discovery, social media marketing, community building, event operations \
-*Technical Skills*: LangChain, n8n, Zapier, AWS, Supabase, APIs, Git, TypeScript, Python, Docker, Figma
+*Commercial Skills*: Founder interviews, customer discovery, GTM/marketing, community building, event operations \
+*Technical Skills*: Next.js/React, JavaScript/TypeScript, HTML/CSS/Tailwind, Java/Python/SQL, Supabase, AWS/Docker/Git, Figma
 
