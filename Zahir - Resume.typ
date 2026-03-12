@@ -85,7 +85,7 @@
   dates: dates-helper(start-date: "Jun 2025", end-date: "Aug 2025"),
 )
 - Built an AI agent for SEO-optimized article generation, reducing blog publish time from 3 hours to 15 minutes.
-- Engineered a scalable REST backend for content automation, cutting latency by 75% with 99% reliability.
+- Engineered a scalable REST backend for content automation, cutting latency by 75%.
 - Deployed the full-stack app on Render with cron keep-alive pings to avoid 2-minute cold starts while cutting cloud costs.
 
 #work(
